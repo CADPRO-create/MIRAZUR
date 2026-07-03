@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#12100C"/>
+  <rect x="4" y="4" width="56" height="56" rx="10" stroke="#D8AA45"/>
+  <text x="32" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#FFFAF0">MZ</text>
+  <path d="M32 42L34.2 47.8L40 50L34.2 52.2L32 58L29.8 52.2L24 50L29.8 47.8L32 42Z" fill="#D8AA45"/>
+</svg>
